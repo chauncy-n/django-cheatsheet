@@ -38,5 +38,5 @@ djangoproject
 |  |- views.py: This is where we put the functions that run our routes
 |  |- urls.py: Every URL for our site is defined here
 |
-|- manage.py: lets us change 
+|- manage.py: lets us manage everything about our project
 ```
